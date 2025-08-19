@@ -9,3 +9,5 @@ La Inteligencia Artificial (IA) está revolucionando el panorama educativo al of
 **Tutoría Inteligente:** Los chatbots y asistentes virtuales impulsados por IA pueden ofrecer apoyo 24/7 a los estudiantes, respondiendo preguntas, proporcionando explicaciones adicionales y guiándolos a través de conceptos difíciles.
 
 **Análisis de Datos Educativos:** La IA permite procesar grandes volúmenes de datos sobre el rendimiento estudiantil, identificando patrones, prediciendo riesgos de abandono escolar y ofreciendo insights para intervenciones tempranas y personalizadas.
+
+**IA el futuro de la educacion:** La IA en la educacion tiene un futuro muy prometedor si lo usamos de manera correcta y aplicamos las politicas necesarias para su correcto uso. Solo de manera guiada podemos hacer que la IA sea un factor relevante para mejorar la educacion y hacerla mas inclusiva. 
